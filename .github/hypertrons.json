@@ -13,7 +13,11 @@
       {
         "name": "translation/pending",
         "description": "Waiting for someone to assign task",
-        "color": "f1ee18"
+        "color": "f1ee18",
+        "keywords": [
+          "translation",
+          "pending"
+        ]
       },
       {
         "name": "issue/assigned",
